@@ -1,0 +1,25 @@
+{
+  "manuscript_title": "A Spacetime Algebra Framework for Passive Quench Protection and Radial Shunting in Non-Insulated REBCO High-Field Fusion Magnets",
+  "target_journal": "Superconductor Science and Technology (SuST)",
+  "author": "Jacob James Rasmussen",
+  "orcid": "0009-0009-7084-6523",
+  "mathematical_framework": "Cl_{1,3} Spacetime Algebra Multivector Rotors",
+  "turn_to_turn_contact_resistivity_uOhm_cm2": 15.0,
+  "peak_hotspot_temperature_limit_K": 200.0,
+  "circuit_decay_time_constant_tau_s": [
+    1.0,
+    3.0
+  ],
+  "reversible_strain_window_percent": [
+    -0.3,
+    0.35
+  ],
+  "magnetic_field_baseline_T": 20.0,
+  "operating_temperature_K": 4.2,
+  "divergence_condition": "\\nabla \\cdot \\mathbf{J} = 0",
+  "strain_scaling_fitted_parameters": {
+    "a": 7000.0,
+    "eps_m": 0.0005,
+    "b": 2.2
+  }
+}

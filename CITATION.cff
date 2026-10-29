@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this codebase or framework in your research, please cite it as below."
+title: "A Spacetime Algebra Framework for Passive Quench Protection and Radial Shunting in Non-Insulated REBCO High-Field Fusion Magnets"
+authors:
+  - family-names: "Rasmussen"
+    given-names: "Jacob James"
+    orcid: "0009-0009-7084-6523"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Rasmussen"
+      given-names: "Jacob James"
+      orcid: "0009-0009-7084-6523"
+  title: "A Spacetime Algebra Framework for Passive Quench Protection and Radial Shunting in Non-Insulated REBCO High-Field Fusion Magnets"
+  journal: "Superconductor Science and Technology"
+  year: 2026
+  publisher: "IOP Publishing"
+date-released: 2026-10-28
+keywords:
+  - REBCO
+  - High-Field Magnets
+  - Quench Protection
+  - Spacetime Algebra
+  - Non-Insulated Magnets
+  - Radial Shunting
